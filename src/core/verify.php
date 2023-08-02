@@ -1,9 +1,8 @@
 <?php
 /*
- * Author: Dahir Muhammad Dahir
- * Date: 26-April-2020 5:44 PM
- * About: identification and verification
- * will be carried out in this file
+ * Author: Babatunde Odunaiya
+ * Date: 1-August-2023 5:07 AM
+ * About: I am boring
  */
 
 namespace fingerprint;
