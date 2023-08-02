@@ -1,9 +1,8 @@
 <?php
-/**
- * this file uses the enrollment class to
- * enroll users
- * @authors Dahir Muhammad Dahir (dahirmuhammad3@gmail.com)
- * @date    2020-04-18 14:28:39
+/*
+ * Author: Babatunde Odunaiya
+ * Date: 1-August-2023 5:07 AM
+ * About: I am boring
  */
 
 require_once("../coreComponents/basicRequirements.php");
