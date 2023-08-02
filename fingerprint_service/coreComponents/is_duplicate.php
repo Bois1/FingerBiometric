@@ -1,10 +1,8 @@
 <?php
-/**
- * -=-<[ Bismillahirrahmanirrahim ]>-=-
- * Check fingerprint is duplicate from array of fingerprints
- * @authors Dahir Muhammad Dahir (dahirmuhammad3@gmail.com)
- * @date    2022-04-10 16:35:17
- * @version 1.0.0
+/*
+ * Author: Babatunde Odunaiya
+ * Date: 1-August-2023 5:07 AM
+ * About: I am boring
  */
 
 require_once("../coreComponents/basicRequirements.php");
