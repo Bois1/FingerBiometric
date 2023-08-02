@@ -1,12 +1,9 @@
 <?php
-/**
- * -=-<[ Bismillahirrahmanirrahim ]>-=-
- * Verify fingerprint
- * @authors Dahir Muhammad Dahir (dahirmuhammad3@gmail.com)
- * @date    2022-04-10 15:48:48
- * @version 1.0.0
+/*
+ * Author: Babatunde Odunaiya
+ * Date: 1-August-2023 5:07 AM
+ * About: I am boring
  */
-
 require_once("../coreComponents/basicRequirements.php");
 
 if(!empty($_POST["data"])) {
