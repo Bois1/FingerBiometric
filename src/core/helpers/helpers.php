@@ -1,10 +1,8 @@
 <?php
-/**
- * -=-<[ Bismillahirrahmanirrahim ]>-=-
- * Helper functions to access fingerprint service
- * @authors Dahir Muhammad Dahir (dahirmuhammad3@gmail.com)
- * @date    2022-04-11 13:52:59
- * @version 1.0.0
+/*
+ * Author: Babatunde Odunaiya
+ * Date: 1-August-2023 5:07 AM
+ * About: I am boring
  */
 require_once(__DIR__ . '/../../../configs.php');
 require_once('Requests/src/Autoload.php');
