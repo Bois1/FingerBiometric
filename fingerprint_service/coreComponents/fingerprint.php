@@ -1,9 +1,8 @@
 <?php
-/**
- * -=-<[ Bismillahirrahmanirrahim ]>-=-
- * handles all fingerprint functionalities
- * @authors Dahir Muhammad Dahir
- * @date    2021-03-22 12:03:08
+/*
+ * Author: Babatunde Odunaiya
+ * Date: 1-August-2023 5:07 AM
+ * About: I am boring
  */
 
 require_once(__DIR__ . "/" . "../vendor/autoload.php");
