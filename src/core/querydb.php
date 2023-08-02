@@ -1,9 +1,8 @@
 <?php
 /*
- * Author: Dahir Muhammad Dahir
- * Date: 26-April-2020 12:41 AM
- * About: this file is responsible
- * for all Database queries
+ * Author: Babatunde Odunaiya
+ * Date: 1-August-2023 5:07 AM
+ * About: I am boring
  */
 
 namespace fingerprint;
